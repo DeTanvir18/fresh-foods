@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+
+/* navlink */
+nav a {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Active Link Style */
+nav a.active {
+  text-decoration: underline;
+  color: rgb(40, 126, 224);
+  border-radius: 4px;
+  padding: 5px 10px;
+}
