@@ -27,4 +27,3 @@ I have made this react project for food lovers. It is a meal serving site for th
 * react-hook-form etc.
 
 Here's the live site Link: https://assign12-fresh-foods.web.app/
-Here's the server Link:  https://a-12-fresh-foods-server.vercel.app/
